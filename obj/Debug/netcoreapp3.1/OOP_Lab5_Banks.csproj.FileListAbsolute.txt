@@ -1,0 +1,13 @@
+D:\Users\vecto\source\repos\OOP_Lab5_Banks\OOP_Lab5_Banks\bin\Debug\netcoreapp3.1\OOP_Lab5_Banks.exe
+D:\Users\vecto\source\repos\OOP_Lab5_Banks\OOP_Lab5_Banks\bin\Debug\netcoreapp3.1\OOP_Lab5_Banks.deps.json
+D:\Users\vecto\source\repos\OOP_Lab5_Banks\OOP_Lab5_Banks\bin\Debug\netcoreapp3.1\OOP_Lab5_Banks.runtimeconfig.json
+D:\Users\vecto\source\repos\OOP_Lab5_Banks\OOP_Lab5_Banks\bin\Debug\netcoreapp3.1\OOP_Lab5_Banks.runtimeconfig.dev.json
+D:\Users\vecto\source\repos\OOP_Lab5_Banks\OOP_Lab5_Banks\bin\Debug\netcoreapp3.1\OOP_Lab5_Banks.dll
+D:\Users\vecto\source\repos\OOP_Lab5_Banks\OOP_Lab5_Banks\bin\Debug\netcoreapp3.1\OOP_Lab5_Banks.pdb
+D:\Users\vecto\source\repos\OOP_Lab5_Banks\OOP_Lab5_Banks\obj\Debug\netcoreapp3.1\OOP_Lab5_Banks.csprojAssemblyReference.cache
+D:\Users\vecto\source\repos\OOP_Lab5_Banks\OOP_Lab5_Banks\obj\Debug\netcoreapp3.1\OOP_Lab5_Banks.AssemblyInfoInputs.cache
+D:\Users\vecto\source\repos\OOP_Lab5_Banks\OOP_Lab5_Banks\obj\Debug\netcoreapp3.1\OOP_Lab5_Banks.AssemblyInfo.cs
+D:\Users\vecto\source\repos\OOP_Lab5_Banks\OOP_Lab5_Banks\obj\Debug\netcoreapp3.1\OOP_Lab5_Banks.csproj.CoreCompileInputs.cache
+D:\Users\vecto\source\repos\OOP_Lab5_Banks\OOP_Lab5_Banks\obj\Debug\netcoreapp3.1\OOP_Lab5_Banks.dll
+D:\Users\vecto\source\repos\OOP_Lab5_Banks\OOP_Lab5_Banks\obj\Debug\netcoreapp3.1\OOP_Lab5_Banks.pdb
+D:\Users\vecto\source\repos\OOP_Lab5_Banks\OOP_Lab5_Banks\obj\Debug\netcoreapp3.1\OOP_Lab5_Banks.genruntimeconfig.cache
